@@ -2,6 +2,7 @@
 
 import { SiNextdotjs, SiTailwindcss, SiNodedotjs, SiFigma } from "react-icons/si";
 import { BiCube } from "react-icons/bi"; // placeholder for shadcn UI
+import { JSX } from "react";
 
 interface Skill {
   name: string;
